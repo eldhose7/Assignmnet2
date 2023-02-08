@@ -10,7 +10,7 @@ namespace Assignment2
     {
         static void Main(string[] args)
         {
-         
+         Circle circle= new Circle();
         }
     }
 }
