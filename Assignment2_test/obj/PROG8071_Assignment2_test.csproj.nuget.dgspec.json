@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\Assignment2_test\\PROG8071_Assignment2_test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\Assignment2_test\\PROG8071_Assignment2_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\Assignment2_test\\PROG8071_Assignment2_test.csproj",
+        "projectName": "PROG8071_Assignment2_test",
+        "projectPath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\Assignment2_test\\PROG8071_Assignment2_test.csproj",
+        "packagesPath": "C:\\Users\\eldho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\Assignment2_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eldho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj": {
+                "projectPath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.16.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj",
+        "projectName": "PROG8071_Assign2",
+        "projectPath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj",
+        "packagesPath": "C:\\Users\\eldho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eldho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.16.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

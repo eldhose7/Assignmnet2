@@ -1,0 +1,15 @@
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\bin\Debug\net6.0\PROG8071_Assign11.exe
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\bin\Debug\net6.0\PROG8071_Assign11.deps.json
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\bin\Debug\net6.0\PROG8071_Assign11.runtimeconfig.json
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\bin\Debug\net6.0\PROG8071_Assign11.dll
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\bin\Debug\net6.0\PROG8071_Assign11.pdb
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.csproj.AssemblyReference.cache
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.AssemblyInfoInputs.cache
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.AssemblyInfo.cs
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.csproj.CoreCompileInputs.cache
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.dll
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\refint\PROG8071_Assign11.dll
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.pdb
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\PROG8071_Assign11.genruntimeconfig.cache
+C:\Users\eldho\Downloads\PROG8071_Assign11\PROG8071_Assign11\obj\Debug\net6.0\ref\PROG8071_Assign11.dll

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "drWri3Ayg4hQ0wlMwYVTS2tXBlqxrOOPvARZ9hWM8eWDSZ8TSsgMIT6wQ+V19mc2Wka4dGXCXdSzKSU4j1O/Vg==",
+  "dgSpecHash": "0MbQ/45vLzFtG2EugyLN/3Pl6bKWGC++Bz6cm2J8k3zXWzHyz32uZNiwNKnjD1B45kOqlaEM2T8SSqKjhKeY5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign11.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\eldho\\Downloads\\PROG8071_Assign11\\PROG8071_Assign11\\PROG8071_Assign2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.console\\3.16.2\\nunit.console.3.16.2.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.consolerunner\\3.16.2\\nunit.consolerunner.3.16.2.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\eldho\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
